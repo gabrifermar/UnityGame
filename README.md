@@ -8,7 +8,7 @@ An in-depth paragraph about your project and overview of use.
 
 ## Demo
 
-[![First look](https://img.youtube.com/vi/watch?v=qrdy5z4WC_s/0.jpg)](https://www.youtube.com/watch?v=qrdy5z4WC_s)
+[![First look](https://img.youtube.com/vi/qrdy5z4WC_s/0.jpg)](https://www.youtube.com/watch?v=qrdy5z4WC_s)
 
 ## Getting Started
 
